@@ -6,6 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Guru99.",
-  "license": "ISC"
+  "author": "kotesh.",
+  "license": "ISC",
+  "keywords": [
+    "tiny",
+    "npm",
+    "package"
+  ]
 }
