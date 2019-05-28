@@ -1,1 +1,1 @@
-https://img.shields.io/npm/v/@meesalakr/test.svg?color=green
+![npm](https://img.shields.io/npm/v/@meesalakr/test.svg?color=green)
