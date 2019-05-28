@@ -1,6 +1,6 @@
 {
   "name": "@meesalakr/test",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Converts a string to an array",
   "main": "index.js",
   "scripts": {
